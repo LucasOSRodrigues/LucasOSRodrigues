@@ -19,9 +19,9 @@
 
 ### About | Sobre
 
- CS student at UFOP (4th semester), interning at **TerraLAB** where I work on backend services with Python, PostgreSQL and Docker in a Scrum environment. Interested in software architecture and engineering, clean code, and building things that matter.
+🇬🇧 CS student at UFOP (4th semester), interning at **TerraLAB** where I work on backend services with Python, PostgreSQL and Docker in a Scrum environment. Interested in software architecture and engineering, cybersecurity, clean code, and building things that matter.
  
-🇧🇷 Estudante de Ciência da Computação na UFOP (4º período), estagiando no **TerraLAB** onde trabalho com serviços backend em Python, PostgreSQL e Docker em um ambiente Scrum. Interessado em arquitetura e engenharia de software, código limpo e construir coisas que importam.
+🇧🇷 Estudante de Ciência da Computação na UFOP (4º período), estagiando no **TerraLAB** onde trabalho com serviços backend em Python, PostgreSQL e Docker em um ambiente Scrum. Interessado em arquitetura e engenharia de software, cibersegurança, código limpo e construir coisas que importam.
 
 ---
 
