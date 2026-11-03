@@ -19,9 +19,9 @@
 
 ### About | Sobre
 
-🇬🇧 CS student at UFOP (4th semester), interning at **TerraLAB** where I work on backend services with Python, PostgreSQL and Docker in a Scrum environment. Interested in software architecture and engineering, cybersecurity, clean code, and building things that matter.
- 
-🇧🇷 Estudante de Ciência da Computação na UFOP (4º período), estagiando no **TerraLAB** onde trabalho com serviços backend em Python, PostgreSQL e Docker em um ambiente Scrum. Interessado em arquitetura e engenharia de software, cibersegurança, código limpo e construir coisas que importam.
+🇬🇧 CS student at UFOP (4th semester), previously interned as a **Backend Developer**, working with Python, PostgreSQL and Docker in a Scrum environment. Interested in software architecture and engineering, cybersecurity, clean code, and building things that matter.
+
+🇧🇷 Estudante de Ciência da Computação na UFOP (4º período), com experiência como **estagiário de Desenvolvimento Back-end**, trabalhando com Python, PostgreSQL e Docker em um ambiente Scrum. Interessado em arquitetura e engenharia de software, cibersegurança, código limpo e construir coisas que importam.
 
 ---
 
@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
 
 ### Frontend & Mobile
 
@@ -79,5 +78,5 @@
 
 ### Education & Experience | Formação & Experiência
 
-- 🎓 **UFOP** — B.S. in Computer Science (in progress / em andamento)
-- 💼 **TerraLAB** — Intern, Python/Tornado backend, pytest, Docker, PostgreSQL, Scrum
+- 🎓 **UFOP** · B.S. in Computer Science (in progress / em andamento)
+- 💼 **Backend Developer Intern** · Python/Tornado, pytest, Docker, PostgreSQL, Scrum
